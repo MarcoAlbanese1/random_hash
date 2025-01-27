@@ -1,4 +1,3 @@
-hashlib
 pytest
 click
 pylint
